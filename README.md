@@ -24,7 +24,7 @@ SmartBTech USTP is a smart monitoring system that provides real-time tracking of
 ### Backend (Django)
 1. Clone the repository:
    ```bash
-   git clone [<repository_url>](https://github.com/ronelnale/SmartBTech/tree/91766e9d9bb0e757d4157604a2d9d20ac2d744f3/Capstone/capstone)
+   git clone https://github.com/ronelnale/SmartBTech.git
    cd capstone
    ```
 2. Create and activate a virtual environment:
