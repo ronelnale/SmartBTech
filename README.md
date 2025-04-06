@@ -24,7 +24,7 @@ SmartBTech USTP is a smart monitoring system that provides real-time tracking of
 ### Backend (Django)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ronelnale/SmartBTech.git
+   git clone <repository_url>
    cd capstone
    ```
 2. Create and activate a virtual environment:
@@ -97,3 +97,20 @@ SmartBTech USTP is a smart monitoring system that provides real-time tracking of
 - `chart.js` (for visualizing analytics)
 - `axios` (for handling API requests)
 - `tailwindcss` (for styling)
+
+## Software Installation Requirements
+- **Python**: Download from https://www.python.org/downloads/
+- **Node.js and npm**: https://nodejs.org/
+- **Expo CLI**: Install globally using:
+  ```bash
+  npm install -g expo-cli
+  ```
+- **Vite**: No need to install globally; already managed via project dependencies.
+- **Mysql :
+
+## Credentials (Developers)
+- **Bonghanoy, Ronel**
+- **Catampatan, Mery Cris J.**
+- **Cultura, Gishe Mae T.**
+- **Morin, Claudine Nicole P.**
+- **Salvan, Frince Edd S.**
